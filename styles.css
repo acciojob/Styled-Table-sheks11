@@ -1,1 +1,25 @@
 /* your code */
+table{
+	border: 2px solid rgb(108, 108, 108);
+	border-collapse: collapse;
+}
+thead{
+	background-color: rgb(67, 67, 146);
+}
+tbody{
+	background-color: rgb(144, 144, 222);
+}
+
+th{
+	text-align: left;
+	color: white;
+}
+th,td{
+	border: 1px solid rgb(108, 108, 108);
+}
+.firstrow{
+	padding:10px 60px 10px 10px;
+}
+.row{
+	padding: 10px;
+}
